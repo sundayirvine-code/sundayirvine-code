@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ALX Software Engineering projects
 - 📫 How to reach me amugumbiirvine@gmail.com
 - SOCIALS:
-- Instagram: instagram.com/the_a.n.o.m.a.l.y/
+- Instagram: https://www.instagram.com/the_a.n.o.m.a.l.y/
 - Facebook: https://web.facebook.com/irvinae.sundayz
 
 <!---
