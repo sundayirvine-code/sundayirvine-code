@@ -7,6 +7,7 @@
 - Instagram: https://www.instagram.com/the_a.n.o.m.a.l.y/
 - Facebook: https://web.facebook.com/irvinae.sundayz
 - Website: https://irvine-sunday-portfolio.vercel.app/
+- twitter: https://twitter.com/codematic_
 
 <!---
 sundayirvine-code/sundayirvine-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
